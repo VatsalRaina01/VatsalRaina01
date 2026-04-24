@@ -4,8 +4,13 @@
 
 **Full-Stack Engineer · AI Systems Builder · Published Researcher**
 
-I build AI-powered products end-to-end — from architecture to deployment.\
-Currently final-year CSE at VTU, Bangalore.
+I build AI-powered products end-to-end — from system design to deployment.\
+Currently final-year B.E. CSE at VTU, Bangalore.
+
+🔭 Built a **production-grade RAG chatbot** with hybrid search, multi-agent orchestration & evaluation pipelines\
+⚖️ Co-authored a **published research paper** on an AI-powered legal platform (IJSREM)\
+⚡ My thing: learn fast, ship faster — zero to production in weeks, not months\
+🧠 Interested in **LLMs, retrieval systems, backend architecture & AI agents**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalraina)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vatsalraina123@gmail.com)
@@ -22,7 +27,7 @@ Currently final-year CSE at VTU, Bangalore.
 [![AI Workflow Copilot](https://img.shields.io/badge/🤖_AI_Workflow_Copilot-Production_RAG_Chatbot-blue?style=for-the-badge)](https://github.com/VatsalRaina01/ai-workflow-copilot)
 [![NyayaConnect](https://img.shields.io/badge/⚖️_NyayaConnect-Legal_AI_Platform-green?style=for-the-badge)](https://github.com/VatsalRaina01/NyayaConnect)
 [![License Plate](https://img.shields.io/badge/📷_License_Plate-Computer_Vision-orange?style=for-the-badge)](https://github.com/VatsalRaina01)
-[![Sentiment](https://img.shields.io/badge/🧠_Sentiment_Analysis-NLP_with_BERT-red?style=for-the-badge)](https://github.com/VatsalRaina01)
+[![Sentiment](https://img.shields.io/badge/🧠_Sentiment_Analysis-NLP_with_BERT-red?style=for-the-badge)](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT)
 
 </div>
 
@@ -57,7 +62,7 @@ Currently final-year CSE at VTU, Bangalore.
 > 🧮 Custom CNN classifier (36 classes: A-Z + 0-9) with dropout regularization\
 > ⚡ Optimized preprocessing: adaptive thresholding + aspect-ratio filtering
 
-> ### 🧠 [Sentiment Analysis Platform]([https://github.com/VatsalRaina01](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT))
+> ### 🧠 [Sentiment Analysis Platform](https://github.com/VatsalRaina01)
 > **NLP classification with fine-tuned BERT — 81% accuracy**
 >
 > `Python` `BERT` `TensorFlow` `NLP`
@@ -133,6 +138,7 @@ Currently final-year CSE at VTU, Bangalore.
 
 <div align="center">
 
-*I build things that work, measure if they're good, and make them better.*
+*"You can learn anything. All it takes is two weeks of dedicated time. Just start."*\
+**— The Math Sorcerer**
 
 </div>
