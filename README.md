@@ -63,7 +63,7 @@ Currently final-year CSE at VTU, Bangalore.
 </td>
 <td width="50%">
 
-### [Sentiment Analysis](https://github.com/VatsalRaina01](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT)
+### [Sentiment Analysis](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT)
 **NLP classification with fine-tuned BERT**
 
 - 🎯 3-class sentiment classification — **81% accuracy**
