@@ -123,14 +123,9 @@ Currently final-year CSE at VTU, Bangalore.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VatsalRaina01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalRaina01&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalRaina01&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalRaina01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalRaina01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
