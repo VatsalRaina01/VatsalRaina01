@@ -57,7 +57,7 @@ Currently final-year CSE at VTU, Bangalore.
 > 🧮 Custom CNN classifier (36 classes: A-Z + 0-9) with dropout regularization\
 > ⚡ Optimized preprocessing: adaptive thresholding + aspect-ratio filtering
 
-> ### 🧠 [Sentiment Analysis Platform](https://github.com/VatsalRaina01)
+> ### 🧠 [Sentiment Analysis Platform]([https://github.com/VatsalRaina01](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT))
 > **NLP classification with fine-tuned BERT — 81% accuracy**
 >
 > `Python` `BERT` `TensorFlow` `NLP`
