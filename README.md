@@ -17,64 +17,54 @@ Currently final-year CSE at VTU, Bangalore.
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### [AI Workflow Copilot](https://github.com/VatsalRaina01/ai-workflow-copilot)
-**Production-grade RAG chatbot with multi-agent orchestration**
+[![AI Workflow Copilot](https://img.shields.io/badge/🤖_AI_Workflow_Copilot-Production_RAG_Chatbot-blue?style=for-the-badge)](https://github.com/VatsalRaina01/ai-workflow-copilot)
+[![NyayaConnect](https://img.shields.io/badge/⚖️_NyayaConnect-Legal_AI_Platform-green?style=for-the-badge)](https://github.com/VatsalRaina01/NyayaConnect)
+[![License Plate](https://img.shields.io/badge/📷_License_Plate-Computer_Vision-orange?style=for-the-badge)](https://github.com/VatsalRaina01)
+[![Sentiment](https://img.shields.io/badge/🧠_Sentiment_Analysis-NLP_with_BERT-red?style=for-the-badge)](https://github.com/VatsalRaina01)
 
-- 🔍 Hybrid search (Semantic + BM25) with Reciprocal Rank Fusion
-- 🤖 3 AI agents with LLM-based intent routing (OOP architecture)
-- 🛡️ Guardrails: prompt injection detection, PII redaction, rate limiting
-- 📊 LLM-as-judge evaluation engine (Faithfulness, Relevance, Quality)
-- 🐳 Fully containerized with Docker
+</div>
 
-`Python` `FastAPI` `React` `LangChain` `ChromaDB` `Docker`
+> ### 🤖 [AI Workflow Copilot](https://github.com/VatsalRaina01/ai-workflow-copilot)
+> **Production-grade RAG chatbot with multi-agent orchestration**
+>
+> `Python` `FastAPI` `React` `LangChain` `ChromaDB` `Docker`
+>
+> 🔍 Hybrid search (Semantic + BM25) fused with Reciprocal Rank Fusion\
+> 🤖 3 AI agents with LLM-based intent routing via OOP abstract classes\
+> 🛡️ Guardrails — prompt injection detection, PII redaction, rate limiting\
+> 📊 LLM-as-judge evaluation engine scoring Faithfulness, Relevance & Quality\
+> 🐳 13 REST API endpoints · Fully containerized with Docker
 
-</td>
-<td width="50%">
+> ### ⚖️ [NyayaConnect: Justice Delivered Digitally](https://github.com/VatsalRaina01/NyayaConnect)
+> **AI-powered legal platform — Published as research paper in IJSREM**
+>
+> `Flutter` `Firebase` `Node.js` `OpenAI API` `Razorpay`
+>
+> 👥 Multi-role platform for Citizens, Lawyers & Judges with RBAC\
+> 🧠 AI legal assistant grounded in Indian Kanoon API — ~1.9s response time\
+> 🔐 Firestore security rules enforcing access at the database level\
+> 📹 Video consultations (Agora) + Payments (Razorpay) + Multilingual support\
+> 📄 Co-authored & published research paper
 
-### [NyayaConnect](https://github.com/VatsalRaina01/NyayaConnect)
-**AI-powered legal platform — Published in IJSREM**
+> ### 📷 [Car License Plate Recognition](https://github.com/VatsalRaina01)
+> **End-to-end detection & character recognition — 83% accuracy**
+>
+> `Python` `OpenCV` `CNN` `OCR`
+>
+> 🔬 6-stage pipeline: bilateral filter → Canny edges → contours → segmentation → CNN\
+> 🧮 Custom CNN classifier (36 classes: A-Z + 0-9) with dropout regularization\
+> ⚡ Optimized preprocessing: adaptive thresholding + aspect-ratio filtering
 
-- ⚖️ Multi-role platform (Citizens, Lawyers, Judges)
-- 🧠 AI legal assistant grounded in Indian Kanoon API (~1.9s response)
-- 🔐 Role-based access control + Firestore security rules
-- 📹 Video consultations (Agora) + Payments (Razorpay)
-- 📄 Co-authored research paper
-
-`Flutter` `Firebase` `Node.js` `OpenAI API` `Razorpay`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [License Plate Recognition](https://github.com/VatsalRaina01)
-**End-to-end detection & character recognition pipeline**
-
-- 📷 6-stage image processing pipeline
-- 🧮 Custom CNN (36-class: A-Z + 0-9) — **83% accuracy**
-- 🔧 Canny edge detection + contour analysis + perspective transform
-
-`Python` `OpenCV` `CNN` `OCR`
-
-</td>
-<td width="50%">
-
-### [Sentiment Analysis](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT)
-**NLP classification with fine-tuned BERT**
-
-- 🎯 3-class sentiment classification — **81% accuracy**
-- 🧠 Fine-tuned BERT (110M params) with structured preprocessing
-- 📏 Evaluation-driven development with precision/recall/F1
-
-`Python` `BERT` `TensorFlow` `NLP`
-
-</td>
-</tr>
-</table>
+> ### 🧠 [Sentiment Analysis Platform](https://github.com/VatsalRaina01)
+> **NLP classification with fine-tuned BERT — 81% accuracy**
+>
+> `Python` `BERT` `TensorFlow` `NLP`
+>
+> 🎯 3-class sentiment classification (Positive / Negative / Neutral)\
+> 🔧 Fine-tuned BERT-base (110M params) with structured data preprocessing\
+> 📏 Evaluation-driven development with precision, recall & F1 scoring
 
 ---
 
