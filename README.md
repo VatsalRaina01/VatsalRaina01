@@ -26,7 +26,7 @@ Currently final-year B.E. CSE at VTU, Bangalore.
 
 [![AI Workflow Copilot](https://img.shields.io/badge/🤖_AI_Workflow_Copilot-Production_RAG_Chatbot-blue?style=for-the-badge)](https://github.com/VatsalRaina01/ai-workflow-copilot)
 [![NyayaConnect](https://img.shields.io/badge/⚖️_NyayaConnect-Legal_AI_Platform-green?style=for-the-badge)](https://github.com/VatsalRaina01/NyayaConnect)
-[![License Plate](https://img.shields.io/badge/📷_License_Plate-Computer_Vision-orange?style=for-the-badge)](https://github.com/VatsalRaina01)
+[![License Plate](https://img.shields.io/badge/📷_License_Plate-Computer_Vision-orange?style=for-the-badge)](https://github.com/VatsalRaina01/Car_License_Plate_Recog)
 [![Sentiment](https://img.shields.io/badge/🧠_Sentiment_Analysis-NLP_with_BERT-red?style=for-the-badge)](https://github.com/VatsalRaina01/Sentiment_Analysis_With_BERT)
 
 </div>
